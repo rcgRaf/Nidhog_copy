@@ -1,0 +1,9 @@
+C:\Users\rubom\Documents\Visual Studio 2013\Projects\ObjectMoving\ObjectMoving\bin\Debug\mushroom.png
+C:\Users\rubom\Documents\Visual Studio 2013\Projects\ObjectMoving\ObjectMoving\bin\Debug\ObjectMoving.exe
+C:\Users\rubom\Documents\Visual Studio 2013\Projects\ObjectMoving\ObjectMoving\bin\Debug\ObjectMoving.pdb
+C:\Users\rubom\Documents\Visual Studio 2013\Projects\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.csprojResolveAssemblyReference.cache
+C:\Users\rubom\Documents\Visual Studio 2013\Projects\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.FormView.resources
+C:\Users\rubom\Documents\Visual Studio 2013\Projects\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.Properties.Resources.resources
+C:\Users\rubom\Documents\Visual Studio 2013\Projects\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.csproj.GenerateResource.Cache
+C:\Users\rubom\Documents\Visual Studio 2013\Projects\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.exe
+C:\Users\rubom\Documents\Visual Studio 2013\Projects\ObjectMoving\ObjectMoving\obj\x86\Debug\ObjectMoving.pdb
